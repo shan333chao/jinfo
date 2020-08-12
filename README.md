@@ -10,6 +10,9 @@ query all thread cpu used over 0 percent
 
 
  python3.7 jinfo.py 25582
+ python3.7 jinfo2.py 25582
+ python3.7 jinfo100.py 25582
+ python3.7 process_monitor.py process_path_key
  
  
 
