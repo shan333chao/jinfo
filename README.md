@@ -1,7 +1,7 @@
 # jinfo
 show thread cpu use percent in java process  
 
-query all thread cpu used over 0 percent
+query all thread cpu used over 0 percent  with jstack
 
 ###example:
 
